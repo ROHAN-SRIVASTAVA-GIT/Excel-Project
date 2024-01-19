@@ -3,6 +3,9 @@ Solved a Business Problem for a store to grow its profit and customer reach with
 The Process Includes :
 
 Data Cleaning
+
 Data Processing
+
 Data Analyzing
+
 Data Visualization
